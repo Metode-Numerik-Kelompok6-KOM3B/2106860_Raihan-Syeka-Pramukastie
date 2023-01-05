@@ -12,7 +12,19 @@
 # Requirements
 
 - Python
+```
+sudo apt update && sudo apt install python3 && sudo apt install python2
+```
+- Pip
+```
+curl https://bootstrap.pypa.io/pip/2.7/get-pip.py --output get-pip.py && sudo python2 get-pip.py
+```
 - Matplotlib
+```
+pip install matplotlib
+```
 - Numpy
-- Code Editor
-
+```
+pip install numpy
+```
+- Code Editor (VS Code, Google Colab, IDLE, Atom, Pycharm, dll)
